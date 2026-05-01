@@ -1,0 +1,5 @@
+gym-super-mario-bros==7.4.0
+nes-py==8.2.1
+gym==0.26.2
+numpy>=1.24,<2
+matplotlib>=3.5
