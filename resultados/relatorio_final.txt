@@ -2,32 +2,32 @@
         RELATÓRIO FINAL - ALGORITMO GENÉTICO MARIO
 ======================================================================
 
-Total de gerações executadas: 1000
+Total de gerações executadas: 998
 
 --- PRIMEIRA GERAÇÃO ---
-  Melhor fitness:  927.00
-  Fitness média:   701.42
+  Melhor fitness:  936.50
+  Fitness média:   782.42
   Maior distância: 722 pixels
 
 --- ÚLTIMA GERAÇÃO ---
-  Melhor fitness:  1837.00
-  Fitness média:   1216.92
-  Maior distância: 1627 pixels
+  Melhor fitness:  2152.00
+  Fitness média:   1317.30
+  Maior distância: 1887 pixels
 
 --- MELHOR GERAÇÃO DA EVOLUÇÃO ---
-  Geração:         644
-  Fitness:         1837.00
-  Distância:       1627 pixels
+  Geração:         711
+  Fitness:         2152.00
+  Distância:       1887 pixels
 
 --- PROGRESSO GERAL ---
-  Evolução em distância: +125.3%
+  Evolução em distância: +161.4%
   Mario venceu a fase?   NÃO
 
 --- MELHOR INDIVÍDUO GLOBAL ---
-  Fitness:    1837.00
-  Distância:  1627 pixels
-  Moedas:     1
-  Pontuação:  400
+  Fitness:    2152.00
+  Distância:  1887 pixels
+  Moedas:     3
+  Pontuação:  1100
   Venceu:     NÃO
 
 ======================================================================
